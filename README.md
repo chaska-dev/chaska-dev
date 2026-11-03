@@ -30,7 +30,7 @@ Outside the PC: fishing 🎣
 | Project | What it does | Stack |
 |---|---|---|
 | **[Inalerts](link)** | AI-powered early warning system for schools | Django · AWS · MQTT · ESP32 |
-| **[SimpleCRM](link)** | Multi-tenant self-hosted CRM with Excel import/export | Django · Docker |
+| **[SimpleCRM](https://github.com/chaska-dev/SimpleCRM)** | Multi-tenant self-hosted CRM with Excel import/export | Django · Docker |
 | **[Orianna](https://orianna.net)** | "Digital employee" with AI for SMBs in Antofagasta | Astro · React · Django · RAG · Whisper · QLoRA |
 | **[Markflare](https://github.com/chaska-dev/Markflare)** | Block-based notes workspace on Cloudflare | React · Hono · D1 · TypeScript |
 | **[HoloCards](https://github.com/chaska-dev/HoloCards)** | Web-based foil/holographic trading card studio with WebGL2 export | Astro · Tailwind · WebGL2 · TypeScript |
